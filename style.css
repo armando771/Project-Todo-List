@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background-color: rgb(211, 200, 200);
+}
+
+ol {
+  text-align: center;
+}
+
+.tasks {
+  max-width: 200px;
+  text-align: center;
+  margin: auto;
+}
+
+article {
+  background-color: rgb(241, 192, 176);
+  max-width: 70%;
+  margin: auto;
+}
+
+#changeColor {
+  background-color: rgb(128, 128, 128);
+  background-size: 100%;
+}
+
+.completed {
+  text-decoration: line-through;
+  max-width: 200px;
+  text-align: center;
+  margin: auto;
+}
